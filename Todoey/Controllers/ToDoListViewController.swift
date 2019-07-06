@@ -22,16 +22,16 @@ class ToDoListViewController: UITableViewController {
         itemArray.append(newItem)
         
         let newItem1 = Item()
-        newItem.title = "Find Mike"
-        itemArray.append(newItem)
+        newItem1.title = "Find Michael"
+        itemArray.append(newItem1)
         
         let newItem2 = Item()
-        newItem.title = "Find John"
-        itemArray.append(newItem)
+        newItem2.title = "Find John"
+        itemArray.append(newItem2)
         
         let newItem3 = Item()
-        newItem.title = "Find Jake"
-        itemArray.append(newItem)
+        newItem3.title = "Find Jake"
+        itemArray.append(newItem3)
         
         
         
